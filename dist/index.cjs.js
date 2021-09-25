@@ -2006,11 +2006,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pastafinance.com",
+                href: "https://dex.javaexchange.finance",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pastafinance.com/#/pool",
+                href: "https://javaexchange.finance/#/pool",
             },
         ],
     },
@@ -2025,19 +2025,19 @@ var links = [
         items: [
             {
                 label: "Overview",
-                href: "https://pancakeswap.info",
+                href: "https://www.dextools.io/app/bsc/pair-explorer/0xa43cf0acb7caf9931221394e259bf68252f2c22b,
             },
             {
-                label: "Tokens",
-                href: "https://pancakeswap.info/tokens",
+                label: "ANFT INFO",
+                href: "https://www.dextools.io/app/bsc/pair-explorer/0xa43cf0acb7caf9931221394e259bf68252f2c22b",
             },
             {
-                label: "Pairs",
-                href: "https://pancakeswap.info/pairs",
+                label: "JAVA Info",
+                href: "https://www.dextools.io/app/bsc/pair-explorer/0x46c0d1bdf73584e9f0a95d6f1449e74ce07130e6",
             },
             {
-                label: "Accounts",
-                href: "https://pancakeswap.info/accounts",
+                label: "FAD INFO",
+                href: "https://www.dextools.io/app/bsc/pair-explorer/0x0973e1923d1e8f84a46647fe503707a8a7bb32dd",
             },
         ],
     },
@@ -2047,15 +2047,15 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/pastafinance/",
+                href: "https://github.com/javaswap001/",
             },
             {
                 label: "Docs",
-                href: "https://vikingswap.gitbook.io/viking-swap/",
+                href: "#",
             },
             {
                 label: "Blog",
-                href: "https://viking-swap.medium.com/",
+                href: "#",
             },
         ],
     },
@@ -2067,14 +2067,14 @@ var socials = [
         items: [
             {
                 label: "Announcements",
-                href: "https://t.me/PastaFinanceAnnouncements",
+                href: "https://t.me/javaexchange",
             }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pastafinance",
+        href: "https://twitter.com/JavaExchange",
     },
 ];
 var MENU_HEIGHT = 64;
