@@ -2025,7 +2025,7 @@ var links = [
         items: [
             {
                 label: "Overview",
-                href: "https://www.dextools.io/app/bsc/pair-explorer/0xa43cf0acb7caf9931221394e259bf68252f2c22b,
+                href: "https://www.dextools.io/app/bsc/pair-explorer/0xa43cf0acb7caf9931221394e259bf68252f2c22b",
             },
             {
                 label: "ANFT INFO",
